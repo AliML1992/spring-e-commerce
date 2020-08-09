@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1: spring-e-commerce}
+  <content><
+# Spring Ecommerce    
 Online Book Store app done through the below Udemy course.
 I followed a Udemy course called Complete E-Commerce Course - Java,Spring,Hibernate and MySQL and did some little changes.
 
